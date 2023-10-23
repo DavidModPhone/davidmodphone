@@ -7,5 +7,5 @@
 <b>Biography</b><br>
 💻Im a tech hobby and developer
 📱Mostly for dead platforms webOS/Windows Phone ecc...
-🔧Developing a new webOS/LuneOS framework Called LuneJo (It takes time to do it!)
+🔧I mostly use to make something new with the help of @webOSArchive for Legacy webOS Contents
 📧[Youtube](https://www.youtube.com/@davidmodphone4556)
