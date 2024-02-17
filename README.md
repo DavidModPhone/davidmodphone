@@ -5,7 +5,6 @@
 
 
 <b>Biography</b><br>
-💻Im a tech hobby and developer
+💻Im a tech developer
 📱Mostly for dead platforms webOS/Windows Phone ecc...
-🔧I mostly use to make something new with the help of @webOSArchive for Legacy webOS Contents
 📧[Youtube](https://www.youtube.com/@davidmodphone4556)
