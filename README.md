@@ -2,10 +2,9 @@
 --| --| --| --|
 
 
-<b>Hi there,I'm DavidModPhone</b>👋<br>
+<b>Hi there, I'm DavidModPhone</b>👋<br>
 
 
 <b>Biography</b><br>
-💻Im a tech developer
-📱Mostly for dead platforms webOS/Windows Phone ecc...
+📱Mostly for dead platforms palm/hp webOS
 📧[Youtube](https://www.youtube.com/@davidmodphone4556)
