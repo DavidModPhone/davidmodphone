@@ -4,5 +4,8 @@
 
 <b>Hi there, ErteMesh Labs Here</b>👋<br>
 
+# WARNING!
+This account will be soon deleted, after the deletion, ErteMesh Labs will transfer all of the repos on a new account
+
 
 
